@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="120537" started-at="2020-07-18T13:46:27Z" finished-at="2020-07-18T13:48:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="120537" started-at="2020-07-18T13:46:27Z" finished-at="2020-07-18T13:48:28Z">
+      <class name="com.demo.TestApp">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.demo.TestApp@6e06451e]" name="initialize" is-config="true" duration-ms="16086" started-at="2020-07-18T13:46:27Z" finished-at="2020-07-18T13:46:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="registerTest()[pri:0, instance:com.demo.TestApp@6e06451e]" name="registerTest" duration-ms="44226" started-at="2020-07-18T13:46:43Z" finished-at="2020-07-18T13:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerTest -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.demo.TestApp@6e06451e]" name="loginTest" duration-ms="27552" started-at="2020-07-18T13:47:27Z" finished-at="2020-07-18T13:47:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="searchItemTest()[pri:2, instance:com.demo.TestApp@6e06451e]" name="searchItemTest" duration-ms="13684" started-at="2020-07-18T13:47:55Z" finished-at="2020-07-18T13:48:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItemTest -->
+        <test-method status="PASS" signature="addToCartTest()[pri:3, instance:com.demo.TestApp@6e06451e]" name="addToCartTest" duration-ms="18143" started-at="2020-07-18T13:48:09Z" finished-at="2020-07-18T13:48:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.demo.TestApp@6e06451e]" name="close" is-config="true" duration-ms="807" started-at="2020-07-18T13:48:27Z" finished-at="2020-07-18T13:48:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.demo.TestApp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
